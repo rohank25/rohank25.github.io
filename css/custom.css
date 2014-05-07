@@ -87,6 +87,17 @@ footer {
 
 /* Responsive Styling */
 
-@media (max-width: 1027px) { ... }
+@media (max-width: 749px) {
 
+	.jumbotron h1 {
+		font-size: 72px;
+	}
+}
+
+@media (max-width: 651px) {
+
+	.jumbotron h1 {
+		font-size: 66px;
+	}
+}
 
