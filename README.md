@@ -1,1 +1,1 @@
-Powered by bootstrap. This is just me learning how to css and html. This is a work in progress.
+Powered by my spare time and motivation. 
